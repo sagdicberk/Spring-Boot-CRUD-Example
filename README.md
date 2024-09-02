@@ -7,6 +7,9 @@ Project Overview
 Key Features
 
 -> Spring Boot Framework: Utilized for building a stand-alone, production-grade Spring-based application with minimal configuration.
+
 -> PostgreSQL Database: The application uses PostgreSQL as its database management system, offering reliability and performance for managing relational data.
+
 -> RESTful API: The project provides RESTful API endpoints to handle CRUD operations efficiently.
+
 -> Comprehensive Documentation: Each class within the project includes detailed notes and explanations related to the BootCamp lessons. These notes are intended to serve as a learning aid for others who might work on or review this project.
